@@ -7,10 +7,10 @@ body {
 .container {
   background: skyblue
   width: 380px;
-  padding: 10px;
+  padding: 20px;
   position: relative;
   font-family: 'Noto Sans KR', sans-serif;
-  box-shadow: 0px 2px 2px rgb(89, 0, 231);
+  box-shadow: 2px 2px 2px rgb(89, 0, 231);
   border-radius: 10px;
 }
 
@@ -38,7 +38,9 @@ body {
 .camera {
   width: 380px;
   height: 380px;
-  box-shadow: 0px 2px 2px rgb(255, 255, 255);
+  box-shadow: 2px 2px 2px rgb(255, 255, 255);
+  border-radius: 10%;
+  background-color: #ffaba1;
 }
 
 .name {
@@ -52,6 +54,7 @@ body {
 .percent {
   text-align: center;
   font-size: 16px;
+  font-family: cursive;
 }
 
 .description {
