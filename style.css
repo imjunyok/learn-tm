@@ -7,10 +7,10 @@ body {
 .container {
   width: 380px;
   padding: 20px;
-  background-color: rgb(107, 154, 255);
+  background-color: rgb(117, 107, 255);
   position: relative;
   font-family: "Noto Sans KR", sans-serif;
-  box-shadow: 2px 2px 2px #5f6fff;
+  box-shadow: 2px 2px 2px #6830ff;
   border-radius: 50px;
 }
 
